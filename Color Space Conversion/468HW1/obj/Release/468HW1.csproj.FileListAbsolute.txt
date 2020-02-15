@@ -1,0 +1,10 @@
+C:\Users\Nicholas\source\repos\468HW1\468HW1\bin\Release\468HW1.exe.config
+C:\Users\Nicholas\source\repos\468HW1\468HW1\bin\Release\468HW1.exe
+C:\Users\Nicholas\source\repos\468HW1\468HW1\bin\Release\468HW1.pdb
+C:\Users\Nicholas\source\repos\468HW1\468HW1\obj\Release\468HW1.csprojAssemblyReference.cache
+C:\Users\Nicholas\source\repos\468HW1\468HW1\obj\Release\_468HW1.MainWindow.resources
+C:\Users\Nicholas\source\repos\468HW1\468HW1\obj\Release\_468HW1.Properties.Resources.resources
+C:\Users\Nicholas\source\repos\468HW1\468HW1\obj\Release\468HW1.csproj.GenerateResource.cache
+C:\Users\Nicholas\source\repos\468HW1\468HW1\obj\Release\468HW1.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\source\repos\468HW1\468HW1\obj\Release\468HW1.exe
+C:\Users\Nicholas\source\repos\468HW1\468HW1\obj\Release\468HW1.pdb

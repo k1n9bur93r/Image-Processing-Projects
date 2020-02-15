@@ -1,0 +1,10 @@
+C:\Users\Nicholas\source\repos\469HW3\469HW3\bin\Debug\469HW3.exe.config
+C:\Users\Nicholas\source\repos\469HW3\469HW3\bin\Debug\469HW3.exe
+C:\Users\Nicholas\source\repos\469HW3\469HW3\bin\Debug\469HW3.pdb
+C:\Users\Nicholas\source\repos\469HW3\469HW3\obj\Debug\469HW3.csprojAssemblyReference.cache
+C:\Users\Nicholas\source\repos\469HW3\469HW3\obj\Debug\_469HW3.Form1.resources
+C:\Users\Nicholas\source\repos\469HW3\469HW3\obj\Debug\_469HW3.Properties.Resources.resources
+C:\Users\Nicholas\source\repos\469HW3\469HW3\obj\Debug\469HW3.csproj.GenerateResource.cache
+C:\Users\Nicholas\source\repos\469HW3\469HW3\obj\Debug\469HW3.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\source\repos\469HW3\469HW3\obj\Debug\469HW3.exe
+C:\Users\Nicholas\source\repos\469HW3\469HW3\obj\Debug\469HW3.pdb
